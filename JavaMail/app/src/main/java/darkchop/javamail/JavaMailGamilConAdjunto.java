@@ -33,9 +33,9 @@ public class JavaMailGamilConAdjunto {
     Context context;
     final String nameAdjunto = "imagen.jpg";
 
-    final String username = "amigoinvisible.darkchop@gmail.com";
-    final String password = "amigoinvisible1234";
-    final String destinatario = "pruebas.darkchop@hotmail.com";
+    final String username = "tu.correo@gmail.com";
+    final String password = "1234";
+    final String destinatario = "destinatario@hotmail.com";
     final String asunto = "Prueba Java Mail";
     final String textoMensaje = "Este es un mensaje, \nEstamos aprendiendo Java Mail.\n Envio desde Gmail con archivo adjunto";
     final String ruta = "/data/data/darkchop.javamail/files/" + nameAdjunto;
