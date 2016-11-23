@@ -27,9 +27,9 @@ public class JavaMailGmail {
 
     * */
 
-    final String username = "amigoinvisible.darkchop@gmail.com";
-    final String password = "amigoinvisible1234";
-    final String destinatario = "pruebas.darkchop@hotmail.com";
+    final String username = "tu.correo@gmail.com";
+    final String password = "1234";
+    final String destinatario = "destinatario@hotmail.com";
     final String asunto = "Prueba Java Mail";
     final String textoMensaje = "Este es un mensaje, \nEstamos aprendiendo Java Mail. \nEnvio desde Gmail";
 
