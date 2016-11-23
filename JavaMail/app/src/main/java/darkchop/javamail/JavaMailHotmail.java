@@ -12,9 +12,9 @@ import javax.mail.internet.MimeMessage;
 
 public class JavaMailHotmail {
 
-    final String username = "pruebas.darkchop@hotmail.com";
-    final String password = "Darkchop123456";
-    final String destinatario = "amigoinvisible.darkchop@gmail.com";
+    final String username = "tu.correo@hotmail.com";
+    final String password = "123456";
+    final String destinatario = "destinatario@gmail.com";
     final String asunto = "Prueba Java Mail";
     final String textoMensaje = "Este es un mensaje, \nEstamos aprendiendo Java Mail. \nEnvio desde Hotmail";
 
